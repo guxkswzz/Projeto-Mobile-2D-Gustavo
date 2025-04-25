@@ -9,7 +9,7 @@ O Code Bank é um aplicativo de controle financeiro inspirado no design moderno 
 
 💳 Cartão fictício com status e informações da fatura atual
 
-🧾 Tela Pix com campo para inserir chave Pix e lista de contatos para transferências rápidas
+🧾 Tela Pix com campo para inserir chave Pix e lista de contatos para transferências rápidas (também fictício)
 
 ⚙️ Tecnologias Utilizadas
 React Native
@@ -18,8 +18,8 @@ Expo
 
 TypeScript
 
-CSS-in-JS com StyleSheet
+CSS no JS com StyleSheet
 
-Navegação com o sistema de rotas do Expo Router
+Navegação com o sistema do Expo Router
 
 (não, eu não usei gpt pra esse readme, fiz na mão mesmo)
