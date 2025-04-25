@@ -2,6 +2,7 @@
 O Code Bank é um aplicativo de controle financeiro inspirado no design moderno e minimalista do Nubank e PicPay, desenvolvido com React Native usando o framework Expo.
 
 🚀 Funcionalidades
+
 ✅ Tela inicial personalizada e exibição do "saldo atual"(obviamente fictício)
 
 📱 Botões de ação: Pix, Pagar, Transferir e Depositar(nenhum funciona)
